@@ -6,12 +6,12 @@ import { getFirestore } from "https://www.gstatic.com/firebasejs/10.5.0/firebase
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCjRzpCE8EzVGpRnesvX8A0yUnQQRW7n4Y",
-  authDomain: "projetotarefa-fa407.firebaseapp.com",
-  projectId: "projetotarefa-fa407",
-  storageBucket: "projetotarefa-fa407.appspot.com",
-  messagingSenderId: "173894407281",
-  appId: "1:173894407281:web:f7ebb6232c18e5a4c537d0"
+  apiKey: "AIzaSyD-mQF02YgTE3PuOGRI2zfzpYjspS-aGu4",
+  authDomain: "projeto-tarefa-8c138.firebaseapp.com",
+  projectId: "projeto-tarefa-8c138",
+  storageBucket: "projeto-tarefa-8c138.appspot.com",
+  messagingSenderId: "559376804003",
+  appId: "1:559376804003:web:a5032eb518ed982e877716"
 };
 
 // Initialize Firebase
